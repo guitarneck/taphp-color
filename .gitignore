@@ -1,0 +1,5 @@
+.DS_Store
+test.php
+/vendor/
+.vscode/
+*.bat
