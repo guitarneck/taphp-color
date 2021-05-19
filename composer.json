@@ -1,7 +1,6 @@
 {
     "name": "guitarneck/taphp-color",
     "description": "TAP consumer in color for PHP.",
-    "version": "1.0.0",
     "keywords": ["php","tap","tape","unit-test","testing-tools","color","html","consumer"],
     "homepage": "https://github.com/guitarneck/taphp-color",
     "type": "library",
