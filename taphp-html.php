@@ -63,7 +63,7 @@ if ( substr(php_sapi_name(),0,3) !== 'cli' )
                     header,pre{overflow:hidden;margin:0;padding:0;}
                     header{background:#668;padding:.1em;margin-bottom:.4em;box-shadow:0px 2px 2px rgba(80,80,80,.6);position:sticky;top:0;height:2.4em}
                     header>button{fill:#aac;transition:fill 1s}
-                    header>button:hover{fill:#ddf;transition:fill .4s}
+                    header>button:hover{fill:#ddf;transition:fill .4s;cursor:pointer}
                     header>button>svg>g{fill:inherit}
                     strong{color:#448;text-shadow:.05em .05em .05em rgba(0,0,0,.5)}
                     strong.in{color:inherit}
