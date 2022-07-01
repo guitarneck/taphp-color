@@ -3,3 +3,4 @@ test.php
 /vendor/
 .vscode/
 *.bat
+composer.lock
